@@ -14,7 +14,7 @@
   <a href="mailto:angelotthx@gmail.com">
     <img src="https://img.shields.io/badge/angelotthx@gmail.com-6E5BFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="www.linkedin.com/in/angel-garcia-dev">
+  <a href="https://www.linkedin.com/in/angel-garcia-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <img src="https://img.shields.io/badge/Bogotá,%20Colombia-1F2233?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bogotá, Colombia">

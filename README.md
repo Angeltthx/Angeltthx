@@ -1,6 +1,6 @@
 <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/7d164d5e-a854-4f11-862d-5723cc22e8df" />
 <p align="center">
-  <img src="./assets/banner.png" alt="Developer — I code. I create. I explore." width="100%">
+
 </p>
 
 <h1 align="center">Ángel García</h1>
